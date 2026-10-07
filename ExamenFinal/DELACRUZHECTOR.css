@@ -1,0 +1,94 @@
+h1{
+    text-align: center;
+    background-color: brown;
+    padding: 15px;
+}
+
+h2{
+    text-align: left;
+    background-color: olive;
+    padding: 10px;
+    margin-right: 1700px;
+    margin-left: 20px;
+}
+.Libro1{
+    background-color: beige;
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 1700px;
+}
+button{
+    border-radius: 10px;
+}
+.Libro2{
+    background-color: rgb(187, 187, 130);
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 1700px;
+}
+
+.Libro3{
+    text-align: center;
+    background-color: rgb(158, 158, 90);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px;
+    
+}
+
+.Libro4{
+    text-align: center;
+    background-color: rgb(126, 126, 68);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px;
+    
+}
+
+.Libro5{
+    text-align: center;
+    background-color: rgb(99, 99, 54);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px
+}
+
+.Libro6{
+    text-align: center;
+    background-color: rgb(99, 99, 54);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px
+}
+
+.Libro7{
+    text-align: center;
+    background-color: rgb(99, 99, 54);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px
+}
+
+.Libro8{
+    text-align: center;
+    background-color: rgb(99, 99, 54);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px
+}
+
+.Libro9{
+    text-align: center;
+    background-color: rgb(99, 99, 54);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px
+}
+
+.Libro10{
+    text-align: center;
+    background-color: rgb(99, 99, 54);
+    margin-left: 20px;
+    margin-right: 1700px;
+    padding: 30px
+}
